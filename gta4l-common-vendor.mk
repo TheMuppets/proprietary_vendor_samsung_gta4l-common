@@ -581,7 +581,6 @@ PRODUCT_PACKAGES += \
     libcpion \
     libfastcrc \
     libhdcpsrm \
-    liboemcrypto \
     libsecaudioinfo \
     libsurround_3mic_proc \
     libtrustedapploader \
